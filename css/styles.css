@@ -39,3 +39,26 @@ h6 {
 }
 
 
+/*counter start*/
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.big-text {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1;
+    margin: 0.5rem 1rem;
+}
+
+.countdown-el {
+    text-align: center;
+}
+
+.countdown-el span {
+    font-size: 1.3rem;
+}
+/*counter finish*/
+
